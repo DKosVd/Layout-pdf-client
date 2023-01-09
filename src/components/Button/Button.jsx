@@ -2,7 +2,7 @@
 
 const Button = () => {
     return (
-        <button>
+        <button className="rounded-full bg-red-400 p-2">
             Кнопка
         </button>
     )

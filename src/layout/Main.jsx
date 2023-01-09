@@ -4,7 +4,7 @@ import Header from "../components/Header/Header";
 
 const Main = ({children}) => {
     return (
-        <div className="container container--column">
+        <div className="container mx-auto px-4">
             <Header/>
             <main className="main">
                 {children}

@@ -1,4 +1,3 @@
-import header from './header.module.css';
 
 const Header = () => {
     return (
